@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<all>
+    <header>
+        <FAI1>test1</FAI1>
+        <FAI2>test2</FAI2>
+        <FAI3>test3</FAI3>
+    </header>
+    <add1>
+        <ad1>21</ad1>
+        <ad2>23</ad2>
+        <ad3>12</ad3>
+    </add1>
+    <add2>
+        <ad4>1</ad4>
+        <ad5>3</ad5>
+        <ad6>5</ad6>
+    </add2>
+    <test>
+        <test1>123</test1>
+        <test2>12345</test2>
+    </test>
+</all>
